@@ -4,6 +4,7 @@
 
 ### 项目地址
 - 上线演示地址（后续可能关闭）：http://1.117.91.249/index222.html#/input/login
+- 无默认账号密码，直接进行注册登陆即可
 
 ### 技术栈
 vue、vue-router、element-ui
@@ -29,5 +30,4 @@ vue、vue-router、element-ui
 
 ![首页](./static/项目截图/(6).png)
 
-### 最后
-如果这个项目对你有帮助，请给我个start吧~
+### 最后：如果这个项目对你有帮助，点个start吧~
